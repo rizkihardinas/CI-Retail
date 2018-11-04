@@ -4,6 +4,8 @@
                     <li><?php echo anchor('Supplier','Supplier') ?></li>
                     <li><?php echo anchor('Kategori','Kategori & Sub Kategori') ?></li>
                     <li><?php echo anchor('Satuan','Satuan') ?></li>
+                    <li><?php echo anchor('Brand','Brand') ?></li>
+                    <li><?php echo anchor('Bank','Bank') ?></li>
                     <li><?php echo anchor('User','User') ?></li>
                 </ul>
             </li>
